@@ -15,19 +15,18 @@
     <section>
         <h2>🛠️ Projects</h2>
         <ul>
-            <li><strong>Project 1</strong>: is about transport mangement system</li>
+            <li><strong>Project 1</strong>:OVERCROWDING AND ACCESSIBILITY IN PUBLIC TRANSPORT</li>
             <!-- <li><strong>Project 2</strong>: A short description of another project2.</li> -->
         </ul>
         <h2>🚀 Skills</h2>
         <ul>
             <li>C++, Python, JavaScript</li>
             <li>Data Structures and Algorithms</li>
-            <li>Web Development (React.js, Node.js)</li>
         </ul>
         <h2>🌐 Find Me Online</h2>
         <ul>
             <li><a href="https://github.com/your-github-username" target="_blank">GitHub</a></li>
-            <li><a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a></li>
+            <li><a href="https://www.linkedin.com/in/ankit-raj-3ab304326/" target="_blank">LinkedIn</a></li>
         </ul>
         <h2>Portfolio Topic</h2>
         <dl>
